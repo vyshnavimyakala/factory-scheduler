@@ -49,11 +49,6 @@ Install dependencies:
 Start the development server:
    npm run dev
 
-Open the local URL displayed in your terminal, commonly:
-   http://localhost:5173
-
-
-Note: These commands assume a Vite-based project. Check your package.json for the correct scripts and dependencies.
 
 Project Structure
 
